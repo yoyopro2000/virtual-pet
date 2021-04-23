@@ -1,1 +1,1 @@
-# virtual-pet
+# c36-project
